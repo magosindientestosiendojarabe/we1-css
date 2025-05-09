@@ -1,0 +1,59 @@
+/* Estilos para la página web */
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+#fondo {
+    background-color: #f3f3f3;
+    /* modificar el color a elección */
+}
+
+p a {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+p {
+    font-weight: bold;
+}
+
+#propiedad-font-size {
+    font-size: 36px;
+}
+
+#propiedad-weight {
+    font-weight: bolder;
+}
+
+#pr-style {
+    font-style:italic;
+}
+
+#pr-family {
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#pr-align {
+    text-align: right;
+}
+#pr-decoration{
+    text-decoration:underline;
+}
+#pr-transform {
+    text-transform: uppercase;
+}
+#pr-spacing {
+    letter-spacing: 2cap;
+}
+#pr-height {
+    line-height: 3em;
+}
